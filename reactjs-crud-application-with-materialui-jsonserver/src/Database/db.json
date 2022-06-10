@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 13,
+      "fullName": "Ashfaq",
+      "email": "mashfaq6501@altimetrik.com",
+      "mobile": "95976598599",
+      "city": "Vellore",
+      "gender": "male",
+      "departmentId": "2",
+      "hireDate": "2022-06-09T12:05:57.404Z",
+      "isPermanent": true
+    },
+    {
+      "id": 14,
+      "fullName": "Iqra mehreen",
+      "email": "iqra@gmail.com",
+      "mobile": "94161135231",
+      "city": "Chennai",
+      "gender": "female",
+      "departmentId": "2",
+      "hireDate": "2022-06-09T12:05:57.404Z",
+      "isPermanent": true
+    },
+    {
+      "id": 15,
+      "fullName": "Ramesh",
+      "email": "suresh@gmail.com",
+      "mobile": "98462651515",
+      "city": "Vellore",
+      "gender": "male",
+      "departmentId": "2",
+      "hireDate": "2022-06-10T06:52:24.383Z",
+      "isPermanent": true
+    }
+  ]
+}

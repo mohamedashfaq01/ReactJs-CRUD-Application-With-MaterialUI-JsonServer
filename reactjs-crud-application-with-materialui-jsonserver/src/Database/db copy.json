@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "Mohd Shami",
+      "username": "mohdshami",
+      "email": "shami@gmail.com",
+      "phone": "7896547896",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "username": "dhawansikhar",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "viratkohli",
+      "email": "viratkohli@gmail.com",
+      "phone": "8596589658",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "name": "Ashfaq",
+      "username": "dgfret",
+      "email": "etretewt",
+      "phone": "rg",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "name": "dfgs",
+      "username": "ewt",
+      "email": "4t543",
+      "phone": "dgs",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "name": "Test",
+      "username": "sfdf",
+      "email": "dfsf",
+      "phone": "841632562",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "fullName": "test",
+      "email": "ewfs@jkb.com",
+      "mobile": "325235235235",
+      "city": "DFGDG",
+      "gender": "male",
+      "departmentId": "1",
+      "hireDate": "2022-06-09T07:54:12.698Z",
+      "isPermanent": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+/* @import '~antd/dist/antd.css'; */
+
+.App {
+  text-align: left;
+}
+
+#workspace-sidebar-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+
+  display: flex;
+  padding-left: 10px;
+  color: #505a73;
+  margin-bottom: 10px;
+}
